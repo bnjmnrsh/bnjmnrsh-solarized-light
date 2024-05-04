@@ -419,7 +419,6 @@
         // This is the color of the other matching elements
         "editor.selectionHighlightBackground": "#0050A480",
         // if you tab away you can color it differently
-        // "editor.inactiveSelectionBackground": "",
         // Word Highlights! This happens when you move your cursor inside a variable
         // Strong is the one where your cursor currently is
         "editor.wordHighlightStrongBackground": "#ffffff21",
@@ -429,6 +428,7 @@
         "editorBracketMatch.border": "#0d3a58",
         "editorCodeLens.foreground": "#d0e7e7",
 
+        // Cursors
         "editorCursor.foreground": "#299df0",
         "editorCursor.background": "#ffb87ef8",
         "editorMultiCursor.primary.foreground": "#299df0",
