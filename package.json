@@ -1,0 +1,21 @@
+{
+  "name": "bnjmnrsh-solarized-light",
+  "displayName": "BnjmnRsh Solarized Light",
+  "description": "A modified Solarized light theme with dark terminal.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bnjmnrsh Solarized Light",
+        "uiTheme": "vs",
+        "path": "./themes/bnjmnrsh-solarized-light.json"
+      }
+    ]
+  }
+}
